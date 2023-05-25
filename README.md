@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taami</h1>
-<img align="right" width="400px" src="https://giphy.com/gifs/code-qr-rLzDYazQXFAhlmU0xx" alt="coding" />
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/code-qr-rLzDYazQXFAhlmU0xx"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitaamin&label=Profile%20views&color=0e75b6&style=flat" alt="bitaamin" /> </p>
