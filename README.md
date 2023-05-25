@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taami</h1>
-            <img align="right" width="400" src="https://www.pinterest.com/pin/410249847315311280/](https://gifdb.com/gif/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.html" alt="coding" />
+            <img align="right" width="400px" height="400px" src="https://www.pinterest.com/pin/410249847315311280/](https://gifdb.com/gif/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.html" alt="coding" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitaamin&label=Profile%20views&color=0e75b6&style=flat" alt="bitaamin" /> </p>
