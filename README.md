@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taami</h1>
-            <img align="right" width="400" src="[https://www.pinterest.com/pin/410249847315311280/](https://gifdb.com/gif/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.html)" alt="coding" />
+            <img align="right" width="400" src="https://www.pinterest.com/pin/410249847315311280/](https://gifdb.com/gif/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.html" alt="coding" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitaamin&label=Profile%20views&color=0e75b6&style=flat" alt="bitaamin" /> </p>
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tamir khuderbaatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamir khuderbaatar" height="30" width="40" /></a>
-<a href="https://instagram.com/bitaamin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bitaamin_" height="30" width="40" /></a>
+<a href="https://fb.com/khvder.tamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamir khuderbaatar" height="30" width="40" /></a>
+<a href="https://instagram.com/bitaamin_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bitaamin_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bitaamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bitaamin" height="30" width="40" /></a>
 <a href="https://discord.gg/#9235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9235" height="30" width="40" /></a>
 </p>
